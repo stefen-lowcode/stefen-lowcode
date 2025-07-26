@@ -15,29 +15,22 @@ Here are some ideas to get you started:
 
 --> 
 
-## Hi! I'm Fen!
+## 👋 Hi! I'm Fen
 
->[**Currently working on:**]  
-Reverse engineering workflows, low-level system tools, and C++ utilities.
+> **Currently working on**  
+> Reverse engineering workflows, low-level system tools, and C++ utilities.
 
->[**Currently learning:**]  
-Assembly internals, Binary Exploitation, C++ Concurrency.
+> **Currently learning**  
+> Assembly internals, binary exploitation, and C++ concurrency.
 
->[**Looking to collaborate on:**]  
-Binary analysis tools, open-source security utilities, or freelance system programming gigs.
+> **Looking to collaborate on**  
+> Binary analysis tools, open-source security utilities, or freelance system programming gigs.
 
->[**Looking for help with:**]  
-Cross-platform low-level debugging strategies and optimizing C++ code for performance.
+> **Looking for help with**  
+> Cross-platform low-level debugging strategies and optimizing C++ code for performance.
 
->[**Ask me about:**]  
-Low-level teqniques and hand-made assembly functions.
+> **Ask me about**  
+> Low-level techniques and hand-crafted assembly functions.
 
-<!--
-📫 **How to reach me:**  
-
-😄 **Pronouns:**  
-He/Him
--->
-
->[**Fun fact:**]  
-I rather sip milk than coffee, but i'm drinking coffee right now ☕
+> **Fun fact**  
+> I’d rather sip milk than coffee, but I’m drinking coffee right now.
