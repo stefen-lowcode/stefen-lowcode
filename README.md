@@ -13,4 +13,30 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+--> # 👋 Hi! I'm Fen!
+
+🔭 **Currently working on:**  
+Reverse engineering workflows, low-level system tools, and C++ utilities.
+
+🌱 **Currently learning:**  
+Assembly internals, Binary Exploitation, C++ Concurrency.
+
+👯 **Looking to collaborate on:**  
+Binary analysis tools, open-source security utilities, or freelance system programming gigs.
+
+🤔 **Looking for help with:**  
+Cross-platform low-level debugging strategies and optimizing C++ code for performance.
+
+💬 **Ask me about:**  
+Low-level teqniques and hand-made assembly functions.
+
+<!--
+📫 **How to reach me:**  
+
+😄 **Pronouns:**  
+He/Him
 -->
+
+⚡ **Fun fact:**  
+I rather sip milk than coffee, but i'm drinking coffee right now ☕
