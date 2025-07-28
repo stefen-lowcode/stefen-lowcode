@@ -17,24 +17,21 @@ Here are some ideas to get you started:
 
 ## 👋 Hi! I'm Fen
 ---
-> **Open for**
-> Contribution on C++ related projects (low-level/high-level)
-***
-> **Currently working on**
+> 🔭 **Currently working on**
 > Reverse engineering workflows, low-level system tools, and C++ utilities.
 ***
-> **Currently learning**  
+> 🌱 **Currently learning**  
 > Assembly internals, binary exploitation, and C++ concurrency.
-> 
-> **Looking to collaborate on**  
+***
+> 👯 **Looking to collaborate on**  
 > Binary analysis tools, open-source security utilities, or freelance system programming gigs.
 ***
-> **Looking for help with**  
+> 🤔 **Let's work together on**  
 > Cross-platform low-level debugging strategies and optimizing C++ code for performance.
 ***
-> **Ask me about**  
+> 💬**Ask me about**  
 > Low-level techniques and hand-crafted assembly functions.
 ***
-> **Fun fact**  
+> ⚡ **Fun fact**  
 > I’d rather take a sip of milk than coffee, but I’m drinking coffee right now.
 ---
