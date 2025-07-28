@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 
 ## 👋 Hi! I'm Fen
 
-> [**Currently working on**]
-Reverse engineering workflows, low-level system tools, and C++ utilities.
-
-> [**Currently learning**]  
-Assembly internals, binary exploitation, and C++ concurrency.
-
+> **Currently working on**
+> Reverse engineering workflows, low-level system tools, and C++ utilities.
+***
+> **Currently learning**  
+> Assembly internals, binary exploitation, and C++ concurrency.
+***
 > **Looking to collaborate on**  
 > Binary analysis tools, open-source security utilities, or freelance system programming gigs.
-
+***
 > **Looking for help with**  
 > Cross-platform low-level debugging strategies and optimizing C++ code for performance.
-
+***
 > **Ask me about**  
 > Low-level techniques and hand-crafted assembly functions.
-
+***
 > **Fun fact**  
 > I’d rather sip milk than coffee, but I’m drinking coffee right now.
