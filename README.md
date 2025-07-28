@@ -14,24 +14,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 --> 
+## 👋 Hi, I'm Fen
 
-## 👋 Hi! I'm Fen
 ---
-> 🔭 **Currently working on**
-> Reverse engineering workflows, low-level system tools, and C++ utilities.
-***
-> 🌱 **Currently learning**  
-> Assembly internals, binary exploitation, and C++ concurrency.
-***
-> 👯 **Looking to collaborate on**  
-> Binary analysis tools, open-source security utilities, or freelance system programming gigs.
-***
-> 🤔 **Let's work together on**  
-> Cross-platform low-level debugging strategies and optimizing C++ code for performance.
-***
-> 💬**Ask me about**  
-> Low-level techniques and hand-crafted assembly functions.
-***
-> ⚡ **Fun fact**  
-> I’d rather take a sip of milk than coffee, but I’m drinking coffee right now.
+
+### 🔭 Currently Working On
+- Reverse engineering workflows  
+- Low-level system tools  
+- C++ utilities and performance tooling
+
+---
+
+### 🌱 Currently Learning
+- Assembly language internals  
+- Binary exploitation techniques  
+- Advanced C++ concurrency and multithreading
+
+---
+
+### 🤝 Open to Collaborate On
+- Binary analysis frameworks  
+- Open-source security utilities  
+- Freelance system-level programming projects
+
+---
+
+### 💡 Let’s Work Together On
+- Cross-platform low-level debugging strategies  
+- Performance optimization in modern C++ codebases
+
+---
+
+### 💬 Ask Me About
+- Reverse engineering and disassembly techniques  
+- Hand-crafted assembly and inline ASM in C++
+
+---
+
+### ⚡ Fun Fact
+I prefer milk over coffee… but guess what I’m drinking right now? ☕
+
 ---
