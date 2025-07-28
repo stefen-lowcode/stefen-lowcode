@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ## 👋 Hi! I'm Fen
 
-> **Currently working on**  
-> Reverse engineering workflows, low-level system tools, and C++ utilities.
+> [**Currently working on**]
+Reverse engineering workflows, low-level system tools, and C++ utilities.
 
-> **Currently learning**  
-> Assembly internals, binary exploitation, and C++ concurrency.
+> [**Currently learning**]  
+Assembly internals, binary exploitation, and C++ concurrency.
 
 > **Looking to collaborate on**  
 > Binary analysis tools, open-source security utilities, or freelance system programming gigs.
