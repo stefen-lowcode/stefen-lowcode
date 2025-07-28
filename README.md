@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 --> 
 
 ## 👋 Hi! I'm Fen
+---
 > ### **Open for**
 > Contribution on C++ related projects (low-level/high-level)
+***
 > ### **Currently working on**
 > Reverse engineering workflows, low-level system tools, and C++ utilities.
 ***
@@ -35,4 +37,4 @@ Here are some ideas to get you started:
 ***
 > ### **Fun fact**  
 > I’d rather take a sip of milk than coffee, but I’m drinking coffee right now.
-***
+---
